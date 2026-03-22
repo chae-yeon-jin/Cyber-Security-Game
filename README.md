@@ -1,7 +1,5 @@
 # IT Security Gamification: Hacker & Defender Simulation
 
-> "Know your enemy and know yourself, and you will never be defeated."
-
 ## 🎮 Project Overview
 This project is a **web-based interactive simulation** consisting of 5 missions designed to help players experience the core principles of cyber-attack and defense. Players take on the role of a new intern in a fictional hacker group, tasked with penetrating a company with weak security measures. This "attacker-centric" approach helps learners understand how different techniques are deployed in a real-world cybersecurity attack.
 
